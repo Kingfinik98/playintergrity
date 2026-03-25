@@ -33,7 +33,7 @@
 
 ---
 
-### 📢 Contact & Support [GotenAjje](https://github.com/GotenAjje/Gotenajje)
+### 📢 Contact & Support
 - Credits Source intergrity fix:
 - credit source: http://github.com/tryigit
 - credits source: http://github.com/Citra-Standalone
