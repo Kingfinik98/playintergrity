@@ -18,7 +18,7 @@
 ### 📦 How to Install
 
 1. Make sure the **latest Magisk** is installed  
-2. Download the module from the [📦 latest release](https://github.com/GotenAjje/Gotenajje/releases)  
+2. Download the module from the [📦 latest release](https://github.com/Kingfinik98/playintergrity/releases/)  
 3. Open the **Magisk App** → *Modules* → Tap ➕  
 4. Select the `.zip` module  
 5. Reboot your device and check integrity in Play Store  
